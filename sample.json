@@ -1,0 +1,17 @@
+[
+{
+"vehicleType":"something1",
+"vehicleColor":"red",
+"fuel":"diesel",
+"treadType":"dash"
+
+},
+{
+"vehicleType":"something2",
+"vehicleColor":"red2",
+"fuel":"diesel2",
+"treadType":"dash1"
+
+}
+
+]
